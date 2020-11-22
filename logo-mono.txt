@@ -229,6 +229,7 @@ https://media.contentapi.ea.com/content/dam/gin/common/logos/harry-potter-sorcer
 https://media.contentapi.ea.com/content/dam/gin/common/logos/hellgate-london-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/heroes-of-dragon-age-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/ironforce-logo.png
+https://media.contentapi.ea.com/content/dam/gin/common/logos/james-bond-agent-under-fire-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/jewel-quest-mysteries-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/kingdoms-of-amalur-reckoning-mono-logo.png
 https://media.contentapi.ea.com/content/dam/gin/common/logos/knights-of-honor-mono-logo.png
